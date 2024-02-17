@@ -7,19 +7,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.datatables.net/2.0.0/css/dataTables.dataTables.css" />
     <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/5f59e0296b.js" crossorigin="anonymous"></script>
     <style>
         .main{
-            /* background-color:  #ff00bf; */
-            background-color:  #ff33cc;
-        }
-
-        .first{
-          background: #ff33cc;
-        }
-
-        .first: hover{
-          border: 2px solid pink;
-
+            background-color:  #fd1552;
+            /* background-color:  #ff33cc; */
         }
     </style>
   </head>
